@@ -51,17 +51,5 @@
 
 ---
 
-### 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrachiYargatti&theme=radical" />
-</p>
-
----
-
 ### 😄 Fun Fact
 > I believe every bug is just a misunderstood feature waiting to shine 🌟
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=PrachiYargatti&color=blue)
